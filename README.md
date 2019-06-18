@@ -1,6 +1,5 @@
 # Massey
 
-The information provided here is split into two main sections: Processes and
-Materials.
+Please find all the information we have here in these docs.
 
-Massey is able to utilise these processes and provide the materials.
+Add a line here.
